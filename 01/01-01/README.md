@@ -1,3 +1,1 @@
-A Bad C-language code is shown.
-
-- 01-01-HelloESYS-NotSoGood.c
+まずは最低な書き方によるプログラムの例を見てましょう．
