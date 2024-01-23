@@ -7,10 +7,6 @@ _（間違っているわけではないのですが、誤解を招きかねな�
 
 [01-01-HelloESYS-NotSoGood.c](01-01-HelloESYS-NotSoGood.c)
 
-https://github.com/kameda-yoshinari/C-Programming-OpenGL/blob/main/01/01-01/01-01-HelloESYS-NotSoGood.c
-
-[c](https://github.com/kameda-yoshinari/C-Programming-OpenGL/blob/main/01/01-01/01-01-HelloESYS-NotSoGood.c)
-
 何が悪いのでしょうか？
 次のプログラムを見る前に、４つは指摘できるといいですね．
 
