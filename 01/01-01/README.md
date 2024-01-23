@@ -5,7 +5,7 @@
 以下のサンプルは「悪い例」です．こんな書き方をしてきた人は，これから心を入れ替えて下さい．
 _（間違っているわけではないのですが、誤解を招きかねない書き方です）_
 
-[01-01-HelloESYS-NotSoGood.c]([https://github.com/kameda-yoshinari/C-Programming-OpenGL/blob/main/01/01-01/01-01-HelloESYS-NotSoGood.c)
+[01-01-HelloESYS-NotSoGood.c](01-01-HelloESYS-NotSoGood.c)
 
 https://github.com/kameda-yoshinari/C-Programming-OpenGL/blob/main/01/01-01/01-01-HelloESYS-NotSoGood.c
 
